@@ -1,8 +1,8 @@
 # TECA-TEST
-## Lee un archivo CSV con la informacion de la prueba TECA 
-## corrige posibles errores 
-## crea la evaluación correspondiente en puntos y crea la evaluación correspondiente 
-## en percentiles
+## 1 Lee un archivo CSV con la informacion de la prueba TECA 
+## 2 corrige posibles errores 
+## 3 crea la evaluación correspondiente en puntos y crea la evaluación correspondiente 
+## 4 en percentiles
 
 ### INSTRUMENTO DE VARIABLE TEST EMPATIA COGNITIVA AFECTIVA
 
